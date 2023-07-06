@@ -1,9 +1,9 @@
-name: A workflow for Coursework2 App
+name: A workflow for Coursework Group2 App
 on: push
 
 jobs:
   build:
-    name: Coursework 2 App Action
+    name: Coursework Group2 App Action
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
